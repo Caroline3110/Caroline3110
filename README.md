@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I’m Caroline 👋
 
-<!--
-**Caroline3110/Caroline3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student @ Queen Mary University of London (EECS)**  
+💻 Passionate about **web development, fintech, and data science**  
+🚀 Currently developing the official website for **ThermaChain**, a MedTech startup
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+**Languages:** Java, Python, JavaScript, C#, HTML, CSS  
+**Tools & Frameworks:** .NET, Git, GitHub, VS Code  
+**Interests:** Web development, backend systems, fintech products, UI design
+
+---
+
+## 🛠 Projects
+
+### 🌐 ThermaChain Website (2025 – Present)
+Building a responsive, modern website for **ThermaChain**, a MedTech startup developing a pain-free, plunger-free syringe for arthritis and mobility-impaired patients.  
+**Tech:** HTML, CSS, JavaScript  
+➡️ _Repo coming soon_
+
+---
+
+### 📝 Personal Blog Platform
+A responsive blog with user login, interactive posts, and client-side content management.  
+**Tech:** HTML, CSS, JavaScript  
+➡️ Repo: _link coming soon_
+
+---
+
+### 🐎 Java Horse Race Simulator
+A Java-based horse racing game built to practice OOP (inheritance, classes, event simulation).  
+**Tech:** Java  
+➡️ Repo: _link coming soon_
+
+---
+
+## 📫 Contact
+**LinkedIn:** linkedin.com/in/caroline-ajami  
+**GitHub:** github.com/Caroline3110  
+**Email:** caroline.ajami5@gmail.com
+
